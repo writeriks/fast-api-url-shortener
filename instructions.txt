@@ -1,0 +1,2 @@
+Run Project:  uvicorn main:app --reload
+Python version: python3 --version
